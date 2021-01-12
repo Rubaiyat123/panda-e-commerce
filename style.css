@@ -1,0 +1,11 @@
+.panda-slide{
+    background-color: #fceae8;
+    height: 600px;
+}
+.panda-things img{
+    width: 90px;
+    border-radius: 20px;
+}
+.panda-card{
+    border: 0;
+}
